@@ -6,7 +6,7 @@
 <!-- ===== 2. NAMA ===== -->
 <div>
 
-<h1 align="center">Hi, I'm adiss 👋</h1>
+<h1 align="center">Hi, I'm Adiss 👋</h1>
 <div/>
 <!-- ===== 3. PERAN (animasi ngetik) ===== -->
 <p align="center">
