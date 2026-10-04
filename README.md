@@ -62,8 +62,8 @@ I'm a developer who enjoys building web applications from the first pixel of the
 ## 💜 Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-4F5BD5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-F06EA9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:adisetionugroho28@gmail.com"><img src="https://img.shields.io/badge/Email-4F5BD5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/adisetionugroho"><img src="https://img.shields.io/badge/LinkedIn-F06EA9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/your-username"><img src="https://img.shields.io/badge/Instagram-4F5BD5?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
