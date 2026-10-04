@@ -1,42 +1,60 @@
-<!-- ===== BANNER ===== -->
-<!-- ===== 1. BANNER GAMBAR KAMU ===== -->
+<!-- ===== 1. BANNER ===== -->
 <p align="center">
-  <img src="./Headspace's Photo.jpg" alt="banner" width="100%" />
+  <img src="./banner.png" alt="banner" width="100%" />
 </p>
 
-<!-- ===== 2. HI, I'M ADISS ===== -->
+<!-- ===== 2. NAMA ===== -->
 <h1 align="center">Hi, I'm adiss 👋</h1>
 
-<!-- ===== 3. PERAN KAMU (animasi ngetik) ===== -->
+<!-- ===== 3. PERAN (animasi ngetik) ===== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C8EEF&center=true&vCenter=true&width=500&lines=Web+Developer;Backend+Developer;Fullstack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- ===== 4. BADGE STATUS ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fictophilians&label=Profile%20views&color=6c8eef&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/Fictophilians?style=flat-square&logo=github&color=6c8eef" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Fictophilians?style=flat-square&logo=github&color=6c8eef" alt="stars" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-6c8eef?style=flat-square" alt="open to collab" />
+</p>
+
+<!-- ===== 5. MENU NAVIGASI ===== -->
+<p align="center">
+  <a href="#-tentang-saya">Tentang</a> •
+  <a href="#️-tech-stack">Tech Stack</a> •
+  <a href="#-proyek-unggulan">Proyek</a> •
+  <a href="#-github-stats">Stats</a> •
+  <a href="#-mari-terhubung">Kontak</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" />
 
 ## 👨‍💻 Tentang Saya
 
-Sedang belajar dan membangun proyek web, mobile, dan data yang berfokus pada pengembangan aplikasi yang rapi dan bermanfaat bagi banyak orang
+- 🚀 Membangun aplikasi web dari sisi **frontend sampai backend**
+- 🎯 Fokus pada kode yang rapi, terstruktur, dan mudah dikembangkan
+- 🌱 Terus belajar teknologi baru lewat proyek nyata
+- 💬 Tanya saya tentang: **HTML, CSS, Dart/Flutter, Python**
 
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" />
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" />
 
 ## 📌 Proyek Unggulan
 
@@ -44,10 +62,10 @@ Sedang belajar dan membangun proyek web, mobile, dan data yang berfokus pada pen
 |--------|-----------|-----------|
 | [BlogApp-Bloggerist](https://github.com/Fictophilians/BlogApp-Bloggerist) | Aplikasi blog | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
 | [Portofolio-Website](https://github.com/Fictophilians/Portofolio-Website) | Website portofolio pribadi | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
-| [JobLine](https://github.com/Fictophilians/JobLine) | Tampilan platform lowongan kerja | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
+| [JobLine](https://github.com/Fictophilians/JobLine) | Platform lowongan kerja | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
 | [Projek_KKA-dataNilai_siswa](https://github.com/Fictophilians/Projek_KKA-dataNilai_siswa) | Pengolahan data nilai siswa | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -60,7 +78,7 @@ Sedang belajar dan membangun proyek web, mobile, dan data yang berfokus pada pen
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fictophilians&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" />
 
 ## 🤝 Mari Terhubung
 
@@ -72,5 +90,5 @@ Sedang belajar dan membangun proyek web, mobile, dan data yang berfokus pada pen
 
 <!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
 </p>
