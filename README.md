@@ -7,10 +7,9 @@
 <h1 align="center">Hi, I'm Adiss 👋</h1>
 
 <!-- ===== 3. ROLES (typing animation) ===== -->
+<!-- ===== 3. ROLES (typing animation) ===== -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FDDEA&center=true&vCenter=true&width=500&lines=Web+Developer;Web+Designer;Backend+Developer;Fullstack+Developer" alt="Typing SVG" />
-  </a>
+  <img src="./typing.svg" alt="Web Developer, Backend Developer, Fullstack Developer" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F5BD5,50:F06EA9,100:7FDDEA&height=2&section=header" width="100%" />
