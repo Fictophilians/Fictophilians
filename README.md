@@ -1,6 +1,17 @@
 <!-- ===== BANNER ===== -->
+<!-- ===== 1. BANNER GAMBAR KAMU ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%2C%20I'm%20adiss%20%F0%9F%91%8B&fontSize=48&fontAlignY=38&desc=Love%20to%20be%20kind.&descAlignY=58&animation=fadeIn" alt="banner" />
+  <img src="./banner.png" alt="banner" width="100%" />
+</p>
+
+<!-- ===== 2. HI, I'M ADISS ===== -->
+<h1 align="center">Hi, I'm adiss 👋</h1>
+
+<!-- ===== 3. PERAN KAMU (animasi ngetik) ===== -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C8EEF&center=true&vCenter=true&width=500&lines=Web+Developer;Mobile+App+Developer;Python+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- ===== TYPING ANIMATION ===== -->
