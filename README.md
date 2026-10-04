@@ -39,8 +39,8 @@ I'm a developer who enjoys building web applications from the first pixel of the
  <img src="https://img.shields.io/badge/Vercel-2FB3C8?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F06EA9?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-2FB3C8?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-4F5BD5?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-F06EA9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F06EA9?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-4F5BD5?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-2FB3C8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik04LjcgMTYuMyA0LjQgMTJsNC4zLTQuMy0xLjQtMS40TDEuNiAxMmw1LjcgNS43em02LjYgMCAxLjQgMS40IDUuNy01LjctNS43LTUuNy0xLjQgMS40IDQuMyA0LjN6TTEzLjggNGwtMy42IDE2aDJMMTUuOCA0eiIvPjwvc3ZnPg==" />
 </p>
 
