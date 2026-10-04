@@ -1,11 +1,11 @@
 <!-- ===== 1. BANNER ===== -->
 <p align="center">
-  <img src="./banner.png" alt="banner" width="100%" />
+  <img src="./Headspace's Photo.jpg" alt="banner" width="100%" />
 </p>
 
 <!-- ===== 2. NAMA ===== -->
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+
 <h1 align="center">Hi, I'm adiss 👋</h1>
 <div/>
 <!-- ===== 3. PERAN (animasi ngetik) ===== -->
