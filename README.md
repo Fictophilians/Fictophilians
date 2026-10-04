@@ -36,7 +36,7 @@ I'm a developer who enjoys building web applications from the first pixel of the
   <img src="https://img.shields.io/badge/Dart-F06EA9?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-2FB3C8?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4F5BD5?style=for-the-badge&logo=mysql&logoColor=white" />
- <img src="https://img.shields.io/badge/Vercel-4F5BD5?style=for-the-badge&logo=vercel&logoColor=white" />
+ <img src="https://img.shields.io/badge/Vercel-2FB3C8?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-2FB3C8?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-4F5BD5?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-F06EA9?style=for-the-badge&logo=github&logoColor=white" />
