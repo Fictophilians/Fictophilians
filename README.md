@@ -17,7 +17,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" />
 
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About me
 
 - 🚀 Membangun aplikasi web dari sisi **frontend sampai backend**
 - 🎯 Fokus pada kode yang rapi, terstruktur, dan mudah dikembangkan
@@ -41,7 +41,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" />
 
-## 📌 Proyek Unggulan
+## 📌 Featured Projects
 
 | Proyek | Deskripsi | Teknologi |
 |--------|-----------|-----------|
@@ -65,7 +65,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" />
 
-## 🤝 Mari Terhubung
+## 🤝 Let's get connected
 
 <p align="center">
   <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
