@@ -23,14 +23,6 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-6c8eef?style=flat-square" alt="open to collab" />
 </p>
 
-<!-- ===== 5. MENU NAVIGASI ===== -->
-<p align="center">
-  <a href="#-tentang-saya">Tentang</a> •
-  <a href="#️-tech-stack">Tech Stack</a> •
-  <a href="#-proyek-unggulan">Proyek</a> •
-  <a href="#-github-stats">Stats</a> •
-  <a href="#-mari-terhubung">Kontak</a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" />
 
