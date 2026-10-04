@@ -14,7 +14,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F5BD5,50:F06EA9,100:7FDDEA&height=2&section=header" width="100%" />
 
-## 👨‍💻 About Me
+## 💻 About Me
 
 I'm a developer who enjoys building web applications from the first pixel of the interface to the logic running behind the scenes. I care about clean, well-structured code and designs that feel simple and pleasant to use. Most of my projects are built with HTML, CSS, Python, and Dart/Flutter, and I'm always exploring new tools to improve my craft. For me, every project is a chance to learn something new and create something that genuinely helps people.
 
@@ -25,12 +25,22 @@ I'm a developer who enjoys building web applications from the first pixel of the
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-4F5BD5?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-F06EA9?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-2FB3C8?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-4F5BD5?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-F06EA9?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-2FB3C8?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-4F5BD5?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-F06EA9?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-2FB3C8?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-4F5BD5?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-F06EA9?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-4F5BD5?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F06EA9?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-4F5BD5?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-F06EA9?style=for-the-badge&logo=vscode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-2FB3C8?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4F5BD5?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-F06EA9?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-2FB3C8?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-4F5BD5?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-F06EA9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-2FB3C8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik04LjcgMTYuMyA0LjQgMTJsNC4zLTQuMy0xLjQtMS40TDEuNiAxMmw1LjcgNS43em02LjYgMCAxLjQgMS40IDUuNy01LjctNS43LTUuNy0xLjQgMS40IDQuMyA0LjN6TTEzLjggNGwtMy42IDE2aDJMMTUuOCA0eiIvPjwvc3ZnPg==" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F5BD5,50:F06EA9,100:7FDDEA&height=2&section=header" width="100%" />
@@ -59,7 +69,7 @@ I'm a developer who enjoys building web applications from the first pixel of the
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F5BD5,50:F06EA9,100:7FDDEA&height=2&section=header" width="100%" />
 
-## 🤝 Let's Connect
+## 💜 Let's Connect
 
 <p align="center">
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-4F5BD5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
