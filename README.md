@@ -1,6 +1,6 @@
 <!-- ===== 1. BANNER ===== -->
 <p align="center">
-  <img src="./Headspace's Photo.jpg" alt="banner" width="100%" />
+  <img src="./download.gif" alt="banner" width="100%" />
 </p>
 
 <!-- ===== 2. NAMA ===== -->
