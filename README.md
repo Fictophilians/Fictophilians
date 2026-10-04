@@ -14,19 +14,6 @@
   </a>
 </p>
 
-<!-- ===== TYPING ANIMATION ===== -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C8EEF&center=true&vCenter=true&width=500&lines=Web+%26+Mobile+Developer;Dart+%7C+HTML+%7C+CSS+%7C+Python;Always+learning%2C+always+building" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fictophilians&label=Profile%20views&color=6c8eef&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/Fictophilians?style=flat&logo=github&color=6c8eef" alt="followers" />
-</p>
-
----
 
 ## 👨‍💻 Tentang Saya
 
