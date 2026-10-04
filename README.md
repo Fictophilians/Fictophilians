@@ -60,12 +60,12 @@ I'm a developer who enjoys building web applications from the first pixel of the
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fictophilians&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F06EA9&icon_color=7FDDEA&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fictophilians&layout=compact&hide_border=true&bg_color=0D1117&title_color=F06EA9&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fictophilians&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F06EA9&icon_color=7FDDEA&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=21600" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fictophilians&layout=compact&hide_border=true&bg_color=0D1117&title_color=F06EA9&text_color=C9D1D9&cache_seconds=21600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fictophilians&hide_border=true&background=0D1117&ring=F06EA9&fire=F06EA9&currStreakNum=FFFFFF&currStreakLabel=7FDDEA&sideNums=FFFFFF&sideLabels=7FDDEA&dates=9BA4B5" />
+  <img src="https://streak-stats.demolab.com/?user=Fictophilians&hide_border=true&background=0D1117&ring=F06EA9&fire=F06EA9&currStreakNum=FFFFFF&currStreakLabel=7FDDEA&sideNums=FFFFFF&sideLabels=7FDDEA&dates=9BA4B5" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F5BD5,50:F06EA9,100:7FDDEA&height=2&section=header" width="100%" />
