@@ -46,17 +46,6 @@ I'm a developer who enjoys building web applications from the first pixel of the
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F5BD5,50:F06EA9,100:7FDDEA&height=2&section=header" width="100%" />
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [BlogApp-Bloggerist](https://github.com/Fictophilians/BlogApp-Bloggerist) | Blog application | ![Dart](https://img.shields.io/badge/-Dart-4F5BD5?logo=dart&logoColor=white) |
-| [Portofolio-Website](https://github.com/Fictophilians/Portofolio-Website) | Personal portfolio website | ![HTML](https://img.shields.io/badge/-HTML-F06EA9?logo=html5&logoColor=white) |
-| [JobLine](https://github.com/Fictophilians/JobLine) | Job listing platform | ![CSS](https://img.shields.io/badge/-CSS-4F5BD5?logo=css&logoColor=white) |
-| [Projek_KKA-dataNilai_siswa](https://github.com/Fictophilians/Projek_KKA-dataNilai_siswa) | Student grade data processing | ![Python](https://img.shields.io/badge/-Python-F06EA9?logo=python&logoColor=white) |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F5BD5,50:F06EA9,100:7FDDEA&height=2&section=header" width="100%" />
-
 ## 📊 GitHub Stats
 
 <p align="center">
