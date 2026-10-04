@@ -19,10 +19,8 @@
 
 ## 👨‍💻 Tentang Saya
 
-- 🌱 Sedang belajar dan membangun proyek web, mobile, dan data
-- 🎯 Fokus pada pengembangan aplikasi yang rapi dan bermanfaat
-- 💬 Tanya saya tentang: HTML, CSS, Dart/Flutter, Python
-- 😊 Fun fact: *Love to be kind.*
+Sedang belajar dan membangun proyek web, mobile, dan data yang berfokus pada pengembangan aplikasi yang rapi dan bermanfaat bagi banyak orang
+
 
 ---
 
