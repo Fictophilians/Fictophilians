@@ -1,6 +1,6 @@
 <!-- ===== 1. BANNER ===== -->
 <p align="center">
-  <img src="./download.gif" alt="banner" width="100%" />
+  <img src="./banner-wide.gif" alt="banner" width="100%" />
 </p>
 
 <!-- ===== 2. NAMA ===== -->
