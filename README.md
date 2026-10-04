@@ -14,16 +14,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C8EEF&center=true&vCenter=true&width=500&lines=Web+Developer;Backend+Developer;Fullstack+Developer" alt="Typing SVG" />
   </a>
 </p>
-
-<!-- ===== 4. BADGE STATUS ===== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fictophilians&label=Profile%20views&color=6c8eef&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/github/followers/Fictophilians?style=flat-square&logo=github&color=6c8eef" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Fictophilians?style=flat-square&logo=github&color=6c8eef" alt="stars" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-6c8eef?style=flat-square" alt="open to collab" />
-</p>
-
-
+  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" />
 
 ## 👨‍💻 Tentang Saya
