@@ -1,7 +1,7 @@
 <!-- ===== BANNER ===== -->
 <!-- ===== 1. BANNER GAMBAR KAMU ===== -->
 <p align="center">
-  <img src="./Headspace's Photo" alt="banner" width="100%" />
+  <img src="./Headspace's Photo.jpg" alt="banner" width="100%" />
 </p>
 
 <!-- ===== 2. HI, I'M ADISS ===== -->
