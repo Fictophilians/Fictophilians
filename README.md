@@ -49,6 +49,10 @@ I'm a developer who enjoys building web applications from the first pixel of the
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="./top-langs.svg" alt="Most used languages" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Fictophilians&hide_border=true&background=0D1117&ring=F06EA9&fire=F06EA9&currStreakNum=FFFFFF&currStreakLabel=7FDDEA&sideNums=FFFFFF&sideLabels=7FDDEA&dates=9BA4B5" />
 </p>
 
