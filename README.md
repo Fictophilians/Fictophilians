@@ -4,7 +4,7 @@
 </p>
 
 <!-- ===== 2. NAME ===== -->
-<h1 align="center">Hi, I'm Adiss 👋</h1>
+<h1 align="center">Hi, I'm Adi Setio 👋</h1>
 
 <!-- ===== 3. ROLES (typing animation) ===== -->
 <!-- ===== 3. ROLES (typing animation) ===== -->
