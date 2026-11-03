@@ -11,26 +11,26 @@ text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
 <text class="t" x="25" y="35">Most Used Languages</text>
 <text class="n" x="25" y="73">Dart</text>
 <rect x="150" y="62" width="270" height="12" rx="6" fill="#21262D"/>
-<rect class="b" x="150" y="62" width="72.7" height="12" rx="6" fill="#4F5BD5" style="animation-delay:0.0s"/>
-<text class="p" x="432" y="73">26.9%</text>
+<rect class="b" x="150" y="62" width="70.6" height="12" rx="6" fill="#4F5BD5" style="animation-delay:0.0s"/>
+<text class="p" x="432" y="73">26.1%</text>
 <text class="n" x="25" y="103">HTML</text>
 <rect x="150" y="92" width="270" height="12" rx="6" fill="#21262D"/>
-<rect class="b" x="150" y="92" width="65.4" height="12" rx="6" fill="#F06EA9" style="animation-delay:0.1s"/>
-<text class="p" x="432" y="103">24.2%</text>
+<rect class="b" x="150" y="92" width="63.0" height="12" rx="6" fill="#F06EA9" style="animation-delay:0.1s"/>
+<text class="p" x="432" y="103">23.3%</text>
 <text class="n" x="25" y="133">JavaScript</text>
 <rect x="150" y="122" width="270" height="12" rx="6" fill="#21262D"/>
-<rect class="b" x="150" y="122" width="32.4" height="12" rx="6" fill="#7FDDEA" style="animation-delay:0.2s"/>
-<text class="p" x="432" y="133">12.0%</text>
+<rect class="b" x="150" y="122" width="31.5" height="12" rx="6" fill="#7FDDEA" style="animation-delay:0.2s"/>
+<text class="p" x="432" y="133">11.7%</text>
 <text class="n" x="25" y="163">CSS</text>
 <rect x="150" y="152" width="270" height="12" rx="6" fill="#21262D"/>
-<rect class="b" x="150" y="152" width="32.2" height="12" rx="6" fill="#4F5BD5" style="animation-delay:0.3s"/>
-<text class="p" x="432" y="163">11.9%</text>
+<rect class="b" x="150" y="152" width="31.3" height="12" rx="6" fill="#4F5BD5" style="animation-delay:0.3s"/>
+<text class="p" x="432" y="163">11.6%</text>
 <text class="n" x="25" y="193">C++</text>
 <rect x="150" y="182" width="270" height="12" rx="6" fill="#21262D"/>
-<rect class="b" x="150" y="182" width="30.2" height="12" rx="6" fill="#F06EA9" style="animation-delay:0.4s"/>
-<text class="p" x="432" y="193">11.2%</text>
+<rect class="b" x="150" y="182" width="29.1" height="12" rx="6" fill="#F06EA9" style="animation-delay:0.4s"/>
+<text class="p" x="432" y="193">10.8%</text>
 <text class="n" x="25" y="223">CMake</text>
 <rect x="150" y="212" width="270" height="12" rx="6" fill="#21262D"/>
-<rect class="b" x="150" y="212" width="23.4" height="12" rx="6" fill="#7FDDEA" style="animation-delay:0.5s"/>
-<text class="p" x="432" y="223">8.7%</text>
+<rect class="b" x="150" y="212" width="22.6" height="12" rx="6" fill="#7FDDEA" style="animation-delay:0.5s"/>
+<text class="p" x="432" y="223">8.4%</text>
 </svg>
